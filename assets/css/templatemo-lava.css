@@ -293,7 +293,6 @@ header
 text-align: left;
 }
 .header-area .main-nav .logo img{
-  width: 100%;
   height: 100%;
 }
 
@@ -603,6 +602,9 @@ text-align: left;
   .header-area .main-nav .logo {
     display: block;
   
+  }
+  .header-area .main-nav .logo img{
+    height: 90%;
   }
   .header-area .main-nav .nav {
     float: none;
